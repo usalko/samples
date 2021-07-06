@@ -1,0 +1,8 @@
+# SCIKIT
+scikit-learn
+# PANDAS
+pandas
+# JUPYTER
+jupyter
+# NUMPY
+numpy
